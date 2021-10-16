@@ -6,4 +6,4 @@ Here's a bit about me:
 - 📕 I am a beginner, I only know the basics programming.
 
 
-My main project is name Easy CMS Construct - https://github.com/AGPLCZ/EasyCMS
+My main project is name Easy CMS Construct - https://github.com/AGPLCZ/EasyCMS  (lang cs)
