@@ -1,5 +1,4 @@
--  https://AGPL.CZ @AGPLCZ 
-- I am a web and game developer
+-  https://AGPL.CZ @AGPLCZ I am a web and game developer
 
 Here's a bit about me:
 - 🌱 I enjoy building software using PHP, SQL, CSS, GML.
