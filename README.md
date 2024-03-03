@@ -1,9 +1,8 @@
-@AGPLCZ - I am a web and game developer
+@AGPLCZ - I am a web developer
 
 Here's a bit about me:
-- 🌱 I enjoy building software using PHP, SQL, CSS, GML.
-- 🚸 I am tutors of young children from the Czech Republic.
 - 📕 I am a beginner, I only know the basics programming.
+- 🌱 I enjoy building software using PHP, SQL, CSS, GML.
+- 🚸 I am tutors of young 8-year-old children from the Czech Republic.
 
-
-My main project is name Easy CMS Construct - https://github.com/AGPLCZ/EasyCMS  (lang cs)
+ (lang cs)
